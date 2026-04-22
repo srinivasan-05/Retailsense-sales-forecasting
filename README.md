@@ -110,6 +110,9 @@ pip install -r requirements.txt
 ### 4. Run the application
 streamlit run app.py
 
+
+## 🚀live demo
+https://retailsense-sales-forecasting-5uz5c8fgdgr8xc482axsrx.streamlit.app/
 ---
 
 ## 👨‍💻 Conclusion
