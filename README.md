@@ -1,4 +1,4 @@
-# 🚀 RetailSense: Smart Sales & Inventory Forecasting System
+# 🚀 RetailSense: Smart Sales & Inventory Dashboard 
 
 ## 📌 Project Overview
 RetailSense is a machine learning-based web application developed using Streamlit that predicts retail sales and provides intelligent inventory decisions. The system helps businesses forecast future sales based on historical data and key influencing factors such as temperature, fuel price, CPI, unemployment, and seasonal trends.
